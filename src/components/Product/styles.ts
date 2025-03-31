@@ -11,6 +11,10 @@ export const Card = styled.div`
   ${TagContainer} {
     margin-bottom: 8px;
   }
+
+  img {
+    width: 100%;
+  }
 `
 export const Titulo = styled.h3`
   font-weight: bold;
